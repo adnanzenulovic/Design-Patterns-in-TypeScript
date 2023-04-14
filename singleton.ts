@@ -1,7 +1,6 @@
 class Singleton {
   static instance: Singleton;
-  public readonly mode = "dark";
-
+  
   // prevent new with private constructor
   private constructor() {}
 
