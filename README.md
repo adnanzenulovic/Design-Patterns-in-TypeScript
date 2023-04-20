@@ -1,6 +1,6 @@
 <div align="center">
   
-# Design Patterns in TypeScrip
+# Design Patterns in TypeScript
   
 </div>
 
