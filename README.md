@@ -20,3 +20,18 @@ instantiate objects. This pattern simplifies object creation, allowing for more 
 modular code, and easier maintenance or extension.
 ```
 
+## Builder
+
+```
+The builder pattern is a creational design pattern that lets you construct complex
+objects step by step. This pattern is particularly useful when there are many optional parameters 
+or when the object creation process requires multiple steps.
+```
+
+## Prototype
+
+```
+Prototype allows objects to be clones of other objects, rather then extended via inheritance.
+This pattern is useful when object creation is expensive, and you want to avoid 
+the cost by reusing and modifying existing instances.
+```
