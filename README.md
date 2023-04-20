@@ -1,8 +1,6 @@
-
-##                                                          Design Patterns in TypeScrip
-
-
-
+<div align="center">
+##Design Patterns in TypeScrip
+</div>
 
 ## Singleton
 
