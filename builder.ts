@@ -41,7 +41,6 @@ class FetchRequestBuilder {
   }
 }
 
-// Primer upotrebe FetchRequestBuilder-a
 async function run() {
   const url = "https://jsonplaceholder.typicode.com/todos/1";
 
