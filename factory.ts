@@ -26,5 +26,5 @@ class SimpleProductFactory {
 const ios = SimpleProductFactory.createProduct("ios");
 const android = SimpleProductFactory.createProduct("android");
 
-console.log(ios.getDescription());
+console.log(ios.getDescription()); //Hi IOS
 console.log(android.getDescription()); // Hi Android
